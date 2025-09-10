@@ -1,0 +1,4 @@
+[console_scripts]
+my_node = my_pkg.my_node:main
+publisher = my_pkg.publisher:main
+subscriber = my_pkg.subscriber:main
