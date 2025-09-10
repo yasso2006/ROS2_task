@@ -1,0 +1,24 @@
+[1.554s] Invoking command in '/home/abdelaziz/ros2_ws/src/my_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abdelaziz/ros2_ws/build/my_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdelaziz/ros2_ws/install/my_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pkg build --build-base /home/abdelaziz/ros2_ws/build/my_pkg/build install --record /home/abdelaziz/ros2_ws/build/my_pkg/install.log --single-version-externally-managed install_data
+[2.065s] running egg_info
+[2.104s] writing ../../build/my_pkg/my_pkg.egg-info/PKG-INFO
+[2.104s] writing dependency_links to ../../build/my_pkg/my_pkg.egg-info/dependency_links.txt
+[2.105s] writing entry points to ../../build/my_pkg/my_pkg.egg-info/entry_points.txt
+[2.105s] writing requirements to ../../build/my_pkg/my_pkg.egg-info/requires.txt
+[2.105s] writing top-level names to ../../build/my_pkg/my_pkg.egg-info/top_level.txt
+[2.188s] reading manifest file '../../build/my_pkg/my_pkg.egg-info/SOURCES.txt'
+[2.189s] writing manifest file '../../build/my_pkg/my_pkg.egg-info/SOURCES.txt'
+[2.189s] running build
+[2.190s] running build_py
+[2.190s] running install
+[2.201s] running install_lib
+[2.245s] running install_data
+[2.246s] copying package.xml -> /home/abdelaziz/ros2_ws/install/my_pkg/share/my_pkg
+[2.246s] running install_egg_info
+[2.287s] removing '/home/abdelaziz/ros2_ws/install/my_pkg/lib/python3.12/site-packages/my_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[2.288s] Copying ../../build/my_pkg/my_pkg.egg-info to /home/abdelaziz/ros2_ws/install/my_pkg/lib/python3.12/site-packages/my_pkg-0.0.0-py3.12.egg-info
+[2.290s] running install_scripts
+[2.540s] Installing my_node script to /home/abdelaziz/ros2_ws/install/my_pkg/lib/my_pkg
+[2.540s] Installing publisher script to /home/abdelaziz/ros2_ws/install/my_pkg/lib/my_pkg
+[2.541s] Installing subscriber script to /home/abdelaziz/ros2_ws/install/my_pkg/lib/my_pkg
+[2.542s] writing list of installed files to '/home/abdelaziz/ros2_ws/build/my_pkg/install.log'
+[2.608s] Invoked command in '/home/abdelaziz/ros2_ws/src/my_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/abdelaziz/ros2_ws/build/my_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abdelaziz/ros2_ws/install/my_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pkg build --build-base /home/abdelaziz/ros2_ws/build/my_pkg/build install --record /home/abdelaziz/ros2_ws/build/my_pkg/install.log --single-version-externally-managed install_data
